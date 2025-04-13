@@ -1,3 +1,3 @@
 # Deep-learning
 
-![My Image](Images/first.jpg)
+![My Image](DL_COURSE/Images/first.jpg)
